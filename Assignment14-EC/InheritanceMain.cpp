@@ -29,7 +29,7 @@ int main()
 
     //Get input from the user for manufacturer and year built, then store this information in a Vehicle object. 
 	//Call the displayInfo method and display it on the output.
-    cout << "Vehicle: " <<endl;
+    cout << "\nVehicle: " <<endl;
 
 	cout << "Enter the manufacturer: ";
 	getline(cin, m);
